@@ -5,3 +5,6 @@
 3. Install dependencies: `composer install`
 4. Replace `YOUR-OPENAI-API-KEY` with your OpenAI API key
 5. Just run `php tts.php` to generate the speech.mp3 file
+
+# Preview
+https://soundcloud.com/tsiger1/sets/openai-tts-greek
